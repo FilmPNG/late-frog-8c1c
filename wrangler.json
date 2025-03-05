@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "late-frog-8c1c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "df4fff70-b92e-45f6-8bb8-e99b2e58d74a",
+      "database_name": "rapid-sunset-cf5c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
